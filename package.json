@@ -1,0 +1,26 @@
+{
+    "name": "fashion-report-bot",
+    "version": "1.0",
+    "description": "",
+    "homepage": "",
+    "author": {
+        "name": "Jan'to Gylgamesh"
+    },
+    "files": [
+        "lib"
+    ],
+    "main": "./fr.js",
+    "keywords": [
+        ""
+    ],
+    "scripts": {
+        "bot": "node ./fr.js",
+        "lint": "eslint ."
+    },
+    "repository": "/fashion-report-bot",
+    "private": true,
+    "dependencies": {
+	"snoowrap" : "^1.23.0",
+        "discord.js": "^14.3.0"
+    }
+}

@@ -1,0 +1,9 @@
+{
+"token": "your-bot-token-here",
+"userAgent": "your user-agent string",
+"clientId": "your reddit client id",
+"clientSecret": "your reddit client secret",
+"username": "your reddit username to log into the api",
+"password": "your reddit user password",
+"targetChannelId": "the channel ID to post the fashion report to"
+}
